@@ -1,4 +1,5 @@
 mherbst-verification-plugin
 ===========================
 
-Koken plugin that adds verification IDs for Google, Bing and Alexa to the header of HTML files
+This little Koken plugin that adds verification IDs for Google Webmaster Tools, Bing Webmaster Tools and Alexa 
+as meta tags to the headers of all generated HTML files.
