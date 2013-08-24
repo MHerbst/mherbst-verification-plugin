@@ -1,9 +1,28 @@
-{ 
-  "name": "Verification Plugin",
-  "version": "1.0",
-  "description": "Adds verification codes for Google Webmaster Tools, Bing Webmaster tools and Alexa.",
-  "author": {
-    "name": "Martin Herbst",
-    "link": "http://www.brisoft.de"
-  }
+{
+    "name": "Verification ID",
+	"version": "1.0",
+	"description": "Automatically add Disqus comments to any theme.",
+	"author": {
+		"name": "Martin Herbst",
+		"link": "http://www.brisoft.de"
+	},
+
+	"data": {
+    "googlecode": {
+      "label": "Google Webmaster Tools",
+      "info": "You can find this ID in the Google Webmaster tools.",
+      "type": "string"
+    },
+    "alexaid": {
+      "label": "Alexa Verification ID",
+      "info": "You can find this ID in Bing Webmaster tools.",
+      "type": "string"
+    },
+    "bingcode": {
+      "label": "Bing Webmaster Tools",
+      "info": "You can find this ID in Bing Webmaster tools.",
+      "type": "string"
+    }
+
+	}
 }
