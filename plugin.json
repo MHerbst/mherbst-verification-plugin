@@ -1,0 +1,9 @@
+{ 
+  "name": "Verification Plugin",
+  "version": "1.0",
+  "description": "Adds verification codes for Google Webmaster Tools, Bing Webmaster tools and Alexa.",
+  "author": {
+    "name": "Martin Herbst",
+    "link": "http://www.brisoft.de"
+  }
+}
