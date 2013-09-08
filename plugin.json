@@ -1,7 +1,7 @@
 {
     "name": "Verification ID",
-	"version": "1.0",
-	"description": "Automatically add Disqus comments to any theme.",
+	"version": "1.1",
+	"description": "Automatically add verification IDs for Google, Bing, Alexa to your website.",
 	"author": {
 		"name": "Martin Herbst",
 		"link": "http://www.brisoft.de"
