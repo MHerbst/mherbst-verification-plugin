@@ -1,28 +1,32 @@
 {
     "name": "Verification ID",
-	"version": "1.2",
-	"description": "Automatically add verification IDs for Google, Bing, Alexa to your website.",
+	"version": "1.3",
+	"description": "Automatically add verification IDs for Google, Bing, Alexa, Pinterest to your website.",
 	"author": {
 		"name": "Martin Herbst",
 		"link": "http://www.brisoft.de"
 	},
 
 	"data": {
-    "googlecode": {
-      "label": "Google Webmaster Tools",
-      "info": "You can find this ID in the Google Webmaster tools.",
-      "type": "string"
-    },
-    "alexaid": {
-      "label": "Alexa Verification ID",
-      "info": "You can find this ID in Bing Webmaster tools.",
-      "type": "string"
-    },
-    "bingcode": {
-      "label": "Bing Webmaster Tools",
-      "info": "You can find this ID in Bing Webmaster tools.",
-      "type": "string"
-    }
-
+	    "googlecode": {
+	      "label": "Google Webmaster Tools",
+	      "info": "You can find this ID in the Google Webmaster tools.",
+	      "type": "string"
+	    },
+	    "alexaid": {
+	      "label": "Alexa Verification ID",
+	      "info": "You can find this ID in Bing Webmaster tools.",
+	      "type": "string"
+	    },
+	    "bingcode": {
+	      "label": "Bing Webmaster Tools",
+	      "info": "You can find this ID in Bing Webmaster tools.",
+	      "type": "string"
+	    },
+	    "pinterest": {
+	      "label": "Pinterest",
+	      "info": "You can request this ID in your Pinterest profile.",
+	      "type": "string"
+	    }
 	}
 }
